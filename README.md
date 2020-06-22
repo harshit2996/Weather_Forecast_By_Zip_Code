@@ -1,5 +1,8 @@
-This is a document of Weather Forecast Web-App / Website.
+# Weather Forecast by Zip-Code
 
+![alt text](https://github.com/harshit2996/Weather_Forecast_By_Zip_Code/blob/master/images/WeatherApp.gif/?raw=true)
+
+## Description
 The website takes a Post Code from the User and displays the weather forecast for 3-days starting from the present day. The user gets to see the following information :-
 
 1. Dates
@@ -12,7 +15,7 @@ The website takes a Post Code from the User and displays the weather forecast fo
 
 
 
-
+## Installation
 How to run the Weather App
 
 The following is the description on how to run the Weather App.
@@ -26,7 +29,7 @@ The following is the description on how to run the Weather App.
 
 Note:-  Please use your api keys for openweathermap forecast api and pixabay api
 
-References :-
+## References :-
 
 1. OpenWeatherMap Forecast Api - openweathermap.org
 2. Ziptastic getziptastic Api - getziptastic.com
